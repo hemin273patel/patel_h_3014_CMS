@@ -1,0 +1,220 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+body{
+  background-color: #000000;
+  color: #ffffff;
+}
+
+span{
+  color: red;
+}
+
+.logo{
+  width: 200px;
+}
+
+.promo{
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Raleway', sans-serif;
+  margin-top: 0px;
+  text-align: right;
+  margin-right: 14%;
+  color: red;
+}
+
+.mainHead{
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  font-weight: bold;
+  font-size: 50px;
+  color: #ffffff;
+  letter-spacing: 2px;
+  margin-top: 30px;
+  margin-bottom: 0px;
+}
+
+.signIn{
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+  margin-top: 20px;
+  background-color: red;
+  width: 25%;
+  padding: 10px;
+  transition: all .8s;
+  color: #ffffff;
+  border: 0px;
+}
+
+.signIn:hover{
+  color: red;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid #ffffff;
+}
+
+.copyright{
+  text-align: right;
+  font-size: 10px;
+  margin-top: 10%;
+}
+
+.logIn{
+  color: #ffffff;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  font-size: 20px;
+}
+
+/* admin index page */
+
+.setter{
+  width: 350px;
+  transition: all .8s;
+}
+
+.setter:hover{
+  opacity: .8;
+  transform: scale(1.1);
+}
+
+.titleMov{
+  font-size: 40px;
+  display: inline-block;
+  margin-left: 4%;
+  clear: both;
+  overflow: hidden;
+}
+
+.titleYear{
+  font-size: 40px;
+  clear: both;
+  overflow: hidden;
+  color: red;
+  position: relative;
+}
+
+.signIn3{
+  text-align: center;
+  margin-top: 20px;
+  background-color: transparent;
+  width: 20%;
+  padding: 10px;
+  transition: all .8s;
+  color: #ffffff;
+  border: 1px solid #ffffff;
+}
+
+.signIn3:hover{
+  color: red;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid #ffffff;
+}
+
+.UserName{
+  font-size: 45px;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+}
+
+.Greets{
+  color: red;
+  font-size: 30px;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+
+.signIn2{
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+  margin-top: 20px;
+  background-color: transparent;
+  width: 10%;
+  padding: 10px;
+  transition: all .8s;
+  color: #ffffff;
+  border: 1px solid #ffffff;
+}
+
+.signIn2:hover{
+  color: red;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid #ffffff;
+}
+
+.movieCon{
+  margin-top: 2%;
+  display: inline-block;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+/* details */
+
+.setter2{
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+  width: 300px;
+}
+
+.titleMov2{
+  text-align: center;
+  font-size: 40px;
+  clear: both;
+  color: red;
+  overflow: hidden;
+  font-family: 'Raleway', sans-serif;
+}
+
+.titleMov3{
+  text-align: center;
+  font-size: 30px;
+  clear: both;
+  color: red;
+  overflow: hidden;
+  font-family: 'Raleway', sans-serif;
+}
+
+.VideoCont{
+  margin: 0 auto;
+  display: block;
+}
+
+
+
+
+
+
+
+
+
+
+/* footer */
+
+.socCon{
+  margin-top: 5%;
+}
+
+.socCon a {
+  margin: 20px;
+  transition: all .8s;
+  opacity: 1;
+}
+
+.socCon a:hover{
+  opacity: .8;
+}
+
+.socCon a img{
+  transition: all .8s;
+}
+
+.socCon a img:hover{
+  transform: scale(1.5);
+}
